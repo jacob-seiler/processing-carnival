@@ -1,4 +1,4 @@
-# processing-carnival
+# Carnival Animation (made with Processing JS)
 
 Carnival/Amusement park animated in p5.js
 4/3/2016
